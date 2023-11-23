@@ -9,18 +9,21 @@ int main() {
 
     // Imprimir la variable
     cout << phrase << endl;
+    cout << "\n";
 
     // Concatenar cadenas
     string str1 = "Que ";
     string str2 = "tal?";
     string str3 = str1 + str2;
     cout << "Cadena resultante: " << str3 << endl;
+    cout << "\n";
 
     // Obtener el tamaño de la variable
     cout << "Tamaño de la cadena: " << phrase.size() << endl;
 
     // Comprobar si la variable está vacía
     cout << "¿Está la cadena vacía? " << (phrase.empty() ? "Sí" : "No") << endl;
+    cout << "\n";
 
     // Obtener el caracter en una posición
     string sentence = "El lenguaje C++ es poderoso.";
@@ -40,7 +43,8 @@ int main() {
 
     // Imprimir la nueva cadena
     cout << "Cadena resultante: " << new_sentence << endl;
-
+    cout << "\n";
+    
     // Crear cadena tipo string
     string str = "Inteligencia Artificial";
 
