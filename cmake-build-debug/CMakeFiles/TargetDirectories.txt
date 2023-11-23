@@ -1,0 +1,3 @@
+C:/Users/ACER/CLionProjects/untitled2/clase-string/cmake-build-debug/CMakeFiles/class-string.dir
+C:/Users/ACER/CLionProjects/untitled2/clase-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/CLionProjects/untitled2/clase-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
