@@ -45,10 +45,10 @@ int main() {
     string str = "Inteligencia Artificial";
 
     // Obtener una subcadena
-    string sub_string = str.substr(13, 9); // "Artificial"
+    string sub_string = str.substr(13, 10); // "Artificial"
     // Insertar una subcadena
     string new_str = str.insert(0, "La "); // "La Inteligencia Artificial"
-    
+
     // Imprimir la subcadena y la cadena resultante
     cout << "Subcadena: " << sub_string << endl;
     cout << "Cadena resultante: " << new_str << endl;
